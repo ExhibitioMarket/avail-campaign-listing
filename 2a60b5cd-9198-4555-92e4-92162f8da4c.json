@@ -1,0 +1,8 @@
+{
+  "name": "NovaPunks",
+  "logo": "https://r.resimlink.com/DCRgd.png",
+  "rpc_url": "http://62.171.146.33:9944",
+  "explorer_url": "http://62.171.146.33:4000",
+  "metrics_endpoint": "http://62.171.146.33:9615",
+  "id": "2a60b5cd-9198-4555-92e4-92162f8da4ce"
+}
